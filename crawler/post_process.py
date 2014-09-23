@@ -4,7 +4,7 @@ import pickle
 import nltk.data
 import math
 from nltk.stem.lancaster import LancasterStemmer
-
+"more docs."
 data_path = "./data/"
 raw_path = "./raw/"
 
